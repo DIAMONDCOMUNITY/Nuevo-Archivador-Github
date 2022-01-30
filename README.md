@@ -1,8 +1,11 @@
 ###  Nuevo-Archivador-Github #####
               Archivador
----Nuevas Actualizaciones------------
----Registros en Discord--------------
--------------------------------------
+              
+  Comunidad Diamante [FiveM Vs RedM]              
+              
+--------Nuevo GitHud Updates----------
+
+--------------------------------------
 Discordia Principal Store 
 Discord: https://discord.gg/5sgTxUgy4u
 --------------------------------------
