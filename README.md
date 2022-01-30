@@ -1,4 +1,4 @@
-https://discord.gg/jy78DBP2Ts # Nuevo-Archivador-Github
+###  Nuevo-Archivador-Github #####
 Archivador
 ---Nuevas Actualizaciones------
 ---Registros en Discord--------
